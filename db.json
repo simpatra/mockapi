@@ -5,6 +5,7 @@
       "name": "Carpagel",
       "sku": "FRE89755",
       "price": 3.6,
+      "manufacturer": "D&H Medical Supply",
       "images": [
         {
           "url": "https://simpatra-marketplace.s3-us-west-2.amazonaws.com/products/legacy/1542566010ee26908bf9629eeb4b37dac350f4754akCJ95.jpg"
@@ -17,6 +18,7 @@
       "name": "ACUITY",
       "sku": "MRE30717",
       "price": 6,
+      "manufacturer": "MakeWay Wellness, Inc",
       "images": [
         {
           "url": "https://simpatra-marketplace.s3-us-west-2.amazonaws.com/products/legacy/153495448601015e9295e0f49363f13344c8f897f9PLfCF.jpg"
@@ -29,6 +31,7 @@
       "name": "Awaken-S7",
       "sku": "MRE20967",
       "price": 8.99,
+      "manufacturer": "MakeWay Wellness, Inc",
       "images": [
         {
           "url": "https://simpatra-marketplace.s3-us-west-2.amazonaws.com/products/legacy/1534952658f8f5f0f0b86c80e82938a58e4da66283hXqhu.jpg"
@@ -41,6 +44,7 @@
       "name": "seca mBCA 514",
       "sku": "SRE61639",
       "price": 25000.00,
+      "manufacturer": "seca",
       "images": [
         {
           "url": "https://simpatra-marketplace.s3-us-west-2.amazonaws.com/products/legacy/1527708649f62603b73e546d985b1e2e30fa74400bzswcs.jpg"
@@ -53,6 +57,7 @@
       "name": "TOWEL PROFESSIONAL 13 1/2 X 18 3PLY 500CT WHITE",
       "sku": "DRE66599",
       "price": 1885.67,
+      "manufacturer": "D&H Medical Supply",
       "images": [
         {
           "url": "https://simpatra-marketplace.s3-us-west-2.amazonaws.com/products/legacy/1557959753ee26908bf9629eeb4b37dac350f4754aKEiah.jpg"
@@ -65,6 +70,7 @@
       "name": "Female Trocar",
       "sku": "BRE94824 ",
       "price": 86,
+      "manufacturer": "Elemis",
       "images": [
         {
           "url": "https://simpatra-marketplace.s3-us-west-2.amazonaws.com/products/legacy/15335769241a2661bdc7cb9415093515b7da5d7b20jCvMd.jpg"
@@ -77,6 +83,7 @@
       "name": "Plastic Disposable Trocar Kit",
       "sku": "ERE93530",
       "price": 789.00,
+      "manufacturer": "Elemis",
       "images": [
         {
           "url": "https://simpatra-marketplace.s3-us-west-2.amazonaws.com/products/legacy/1558045840ee26908bf9629eeb4b37dac350f4754aXpfpd.jpg"
@@ -89,6 +96,7 @@
       "name": "DIsposable Stainless Steel Female Trocar (Only)",
       "sku": "SRE80023",
       "price": 11.50,
+      "manufacturer": "Elemis",
       "images": [
         {
           "url": "https://simpatra-marketplace.s3-us-west-2.amazonaws.com/products/legacy/1526408805857995b235948aa3550c1ad2527b5fabtA0Ty.jpg"
